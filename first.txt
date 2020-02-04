@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-myselfChange
-=======
+mysefChange
 zengjia
 :
 otherPersion change
 i change
->>>>>>> 2d7564239cbbeb460391b745792379596cd08cf6
+test
