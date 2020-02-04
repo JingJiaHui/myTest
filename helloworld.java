@@ -8,6 +8,6 @@ public class HelloWorld {
 		  System.out.println("Hello 2"); // 打印 Hello World
 		   System.out.println("Hello 3"); // 打印 Hello World
 		   System.out.println("Hello 4"); // 打印 Hello World
-           System.out.println("Hello 4"); // 打印 Hello World
+           System.out.println("Hello 14"); // 打印 Hello World
     }
 }
